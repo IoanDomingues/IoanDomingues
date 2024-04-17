@@ -3,7 +3,7 @@ Hello 👋 ! Je suis Ioan Domingues, un passionné d'informatique résidant à L
 À propos de moi
 Je suis fasciné par le monde de la programmation et j'ai acquis une solide expérience dans plusieurs langages et technologies, notamment :
 
-💾 SQL
+💾 SQL <br>
 🐍 Python
 🖥️ PHP
 🌐 HTML
