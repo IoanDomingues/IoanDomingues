@@ -14,7 +14,8 @@ Contact<br>
 Si vous souhaitez discuter de projets intéressants, de collaborations ou simplement échanger des idées, n'hésitez pas à me contacter :
 <br><br>
 ✉️ Email : ioan.domingues@ecoles-epsi.net<br>
-💼 LinkedIn : www.linkedin.com/in/ioan-domingues<br>
-📁 Portfolio : portfolio-ioan-domingues.alwaysdata.net<br>
+💼 <a href="www.linkedin.com/in/ioan-domingues">LinkedIn</a><br>
+📁 <a href="https://portfolio-ioan-domingues.alwaysdata.net/">Portfolio</a><br>
+
 <br>
 N'hésitez pas à jeter un œil à mes projets sur GitHub et à me suivre pour être informé des dernières mises à jour et contributions !
