@@ -1,21 +1,28 @@
-Hello 👋 ! Je suis Ioan Domingues, un passionné d'informatique résidant à Limeil-Brévannes, dans le Val-de-Marne, en France. Actuellement, je suis étudiant en Bachelor Informatique et en BTS SLAM à l'école EPSI La Défense 👨‍🎓.<br><br>
 
-À propos de moi<br>
-Je suis fasciné par le monde de la programmation et j'ai acquis une solide expérience dans plusieurs langages et technologies, notamment :<br>
 
-💾 SQL <br>
-🐍 Python<br>
-🖥️ PHP<br>
-🌐 HTML<br>
-🎨 CSS<br><br>
-J'aime relever de nouveaux défis et je suis constamment en train d'explorer de nouvelles technologies pour enrichir mes compétences et rester à jour dans ce domaine en constante évolution.
-<br>
-Contact<br>
-Si vous souhaitez discuter de projets intéressants, de collaborations ou simplement échanger des idées, n'hésitez pas à me contacter :
-<br><br>
-✉️ Email : ioan.domingues@ecoles-epsi.net<br>
-💼 <a href="www.linkedin.com/in/ioan-domingues">LinkedIn</a><br>
-📁 <a href="https://ioandomingues-portfolio.alwaysdata.net/">Portfolio</a><br>
+Hello 👋 !  
+Je suis Ioan Domingues, un passionné d'informatique résidant à Limeil-Brévannes, dans le Val-de-Marne, en France. Actuellement, je suis étudiant en **Bachelor Informatique** et en **BTS SIO option SISR** à l'école EPSI Courbevoie 👨‍🎓.  
 
-<br>
-N'hésitez pas à jeter un œil à mes projets sur GitHub et à me suivre pour être informé des dernières mises à jour et contributions !
+---
+
+### À propos de moi  
+Passionné par l'**infrastructure système et réseau**, j'aime explorer les environnements **on-premise** et **cloud**, tout en optimisant la **sécurité** et la **performance** des systèmes informatiques. J’ai acquis des compétences dans plusieurs technologies, notamment :  
+
+🖥️ **Systèmes** : Windows Server, Linux (Debian, Ubuntu)  
+🌐 **Réseaux** : TCP/IP, VLAN, VPN, Firewall, Proxy  
+☁️ **Cloud & Virtualisation** : Proxmox, VMware, Docker, Azure  
+🔐 **Sécurité** : Hardening, Gestion des accès, Monitoring (Zabbix), accès a distance ( Guacamole ), 
+firewall ( PFSENSE, OPNSENSE, SOPHOS, ZYXEL ), switch ( cisco, netgear, aruba ) notion de VLAN etc.
+📜 **Scripting & Dev** : Bash, PowerShell, Python, SQL, HTML CSS
+
+Je suis toujours en quête de nouvelles connaissances pour améliorer mes compétences et m’adapter aux évolutions du secteur.  
+
+
+
+### Contact  
+📧 **Email** : ioan.domingues@ecoles-epsi.net  
+💼 [**LinkedIn**](www.linkedin.com/in/ioan-domingues)  
+📁 [**Portfolio**](https://ioandomingues-portfolio.alwaysdata.net/)  
+
+🚀 N'hésitez pas à découvrir mes projets sur **GitHub** et à me suivre pour être informé de mes contributions dans le domaine **système, réseau et automatisation** !  
+
