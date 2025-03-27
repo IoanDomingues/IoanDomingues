@@ -22,7 +22,7 @@ Je suis toujours en quête de nouvelles connaissances pour améliorer mes compé
 ### Contact  
 📧 **Email** : ioan.domingues@ecoles-epsi.net  
 💼 [**LinkedIn**](www.linkedin.com/in/ioan-domingues)  
-📁 [**Portfolio**](ioandomingues.fr)  
+📁 [**Portfolio**]((https://ioandomingues.fr/))  
 
 🚀 N'hésitez pas à découvrir mes projets sur **GitHub** et à me suivre pour être informé de mes contributions dans le domaine **système, réseau et automatisation** !  
 
